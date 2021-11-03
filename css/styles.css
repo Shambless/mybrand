@@ -176,7 +176,7 @@ p{
     left: 25px;
   }
   .testimonial-text{
-    font-size: 2rem;
+    font-size:2rem;
   }
 }
 @media (max-width: 768px){
@@ -189,9 +189,9 @@ p{
   .column-one{
     text-align: center;
   }
-  .testimonial-text{
-    font-size: 1.75rem;
-  }
+}
+.testimonial-text{
+  font-size: 1.25rem;
 }
 @media (max-width: 426px){
   .title-quote{
@@ -205,7 +205,7 @@ p{
     padding-bottom: 10px;
   }
   .testimonial-text{
-    font-size: 1.5rem;
+    font-size: 1.15rem;
   }
   .location-img{
     width: 70%;
@@ -249,7 +249,7 @@ p{
     font-size: 1.25rem;
   }
   .testimonial-text{
-    font-size: 1.25rem;
+    font-size: 1.10rem;
   }
   .about-text{
     font-size: 1.15rem;
@@ -266,7 +266,7 @@ p{
     padding: 100px 50px 100px;
   }
   .testimonial-text{
-    font-size: 1.15rem;
+    font-size: 1.05rem;
   }
   .about-title{
     font-size: 1.75rem;
